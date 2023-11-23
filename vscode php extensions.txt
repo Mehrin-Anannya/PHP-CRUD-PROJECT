@@ -1,0 +1,11 @@
+1. PHP Intelephense
+2. PHP Server
+3. Auto close tag
+4. phpfmt
+5. Add Php in environment variable
+6. run phpmyadmin
+7. run the project from vscode
+8. Start xamp mysql and apache
+9. Import the database file in phpmyadmin in http://localhost/phpmyadmin
+10. Run the sql script.
+11. http://localhost:3000/index.php
